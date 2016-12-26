@@ -1,0 +1,40 @@
+/* your styles go here */
+html,
+body {
+  overflow-x: hidden;
+  /* Prevent scroll on narrow devices */
+}
+
+.img-aboutMe {
+	width: 50%;
+    height: auto;
+}
+
+.img-actsOfKindness {
+	width: 100%; 
+	height: auto;
+}
+
+.img-taskly {
+	width: 65%;
+	height: auto;
+}
+
+hr {
+	margin-top:50px;
+	margin-bottom:50px;
+	border:0;
+	border-top:
+	1px solid #eee
+}
+
+.img-roundedPortfolio {
+	border-radius: 0;
+}
+
+hr {
+	margin-top: 24px;
+	margin-bottom: 24px;
+	border: 0;
+	border-top: 1px solid #cdcdcd;
+}
